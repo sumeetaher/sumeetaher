@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumeet (He/him)</h1>
-<h3 align="center">Building the wall🏛️ one brick🧱 at a time 😁</h3>
+<h3 align="center">Building the 🏛️ wall one brick 🧱 at a time!</h3>
 
 ##### NOW
-- 
 - ✨ **Opensource** contributor: [Openshift - CI Search](https://github.com/openshift/ci-search)
 - 🔥 Interested in everything Data Engineering
 - 💬 Excited to keep learning from online courses
@@ -14,7 +13,6 @@
 - 🌱 Learning all about **Data Engineering**
 - 🦬 Studying Computer Science at **University at Buffalo**
 - 📄 Checkout my [resume](https://drive.google.com/file/d/1gIhCclwD1xw6c0k13vkYkL3Pm3nzOC0o/view?usp=sharing)
-- 💬 Ping me about **ideas**, **product**, **data**, **development**, **design thinking**
 - 💸 Always excited to discuss/read about **stonks**
 - ⚡️ Fun fact: I'm a huge fan of `Harry Potter`, `LOTR`, `Star Wars`
 
@@ -62,7 +60,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="hadoop" width="40" height="40"/> </a>
 </p>
 
-##### Connect with me:
+##### CONNECT WITH ME:
 <p left="center">
 <a href="https://www.linkedin.com/in/sumeetaher/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
