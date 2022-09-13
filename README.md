@@ -12,7 +12,7 @@
 - ⚙️ I use daily: `.py`, `.go`
 - 🌱 Learning all about **Data Engineering**
 - 🦬 Studying Computer Science at **University at Buffalo**
-- 📄 Checkout my [resume](https://drive.google.com/file/d/1gIhCclwD1xw6c0k13vkYkL3Pm3nzOC0o/view?usp=sharing)
+- 📄 Checkout my [resume](https://drive.google.com/file/d/1OvQBOxxmIs6yDkmeDyygrnrdVK2S5QBg/view?usp=sharing)
 - 💸 Always excited to discuss/read about **stonks**
 - ⚡️ Fun fact: I'm a huge fan of `Harry Potter`, `LOTR`, `Star Wars`
 
